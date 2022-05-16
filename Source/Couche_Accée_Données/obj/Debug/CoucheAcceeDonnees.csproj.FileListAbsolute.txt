@@ -1,0 +1,123 @@
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\bin\Debug\Utilitaire.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\bin\Debug\Utilitaire.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.DossierUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.DossierUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.DossierUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.DossierUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.DossierUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.DossierUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.DossierUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.DossierUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.DossierUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.DossierUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\Couche_Accée_Données\obj\Debug\CoucheAcceeDonnees.pdb

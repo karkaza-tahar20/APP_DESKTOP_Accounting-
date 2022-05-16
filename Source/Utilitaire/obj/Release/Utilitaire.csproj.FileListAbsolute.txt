@@ -1,0 +1,10 @@
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2010\Projects\SharpCompta\Utilitaire\bin\Release\Utilitaire.dll
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2010\Projects\SharpCompta\Utilitaire\bin\Release\Utilitaire.pdb
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2010\Projects\SharpCompta\Utilitaire\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2010\Projects\SharpCompta\Utilitaire\obj\Release\Utilitaire.dll
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2010\Projects\SharpCompta\Utilitaire\obj\Release\Utilitaire.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Utilitaire\bin\Release\Utilitaire.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Utilitaire\bin\Release\Utilitaire.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Utilitaire\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Utilitaire\obj\Release\Utilitaire.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Utilitaire\obj\Release\Utilitaire.pdb

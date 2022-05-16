@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4E5B8E80-05F5-4C25-AD52-1E71F8727641}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ComptabiliteGenerale</RootNamespace>
+    <AssemblyName>ComptabiliteGenerale</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\microsoft.office.interop.excel\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commun\ViewModel\SelectionDatesVM.cs" />
+    <Compile Include="Commun\View\SVP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ComptaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComptaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ComptaDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComptaDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ComptaDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComptaDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ComptaDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComptaDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ComptaDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComptaDataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ComptaDataSet5.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComptaDataSet5.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ComptaDataSet6.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ComptaDataSet6.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Edition\ViewModel\SelectionCompteVM.cs" />
+    <Compile Include="Edition\ViewModel\ListingJournauxVM.cs" />
+    <Compile Include="Edition\ViewModel\ListingLibelleAutVM.cs" />
+    <Compile Include="Edition\ViewModel\LigneJournalAuxiliaire.cs" />
+    <Compile Include="Edition\ViewModel\LigneLibelleAutomatique.cs" />
+    <Compile Include="Edition\ViewModel\LignePlanComptable.cs" />
+    <Compile Include="Edition\ViewModel\ListingPlanComptableVM.cs" />
+    <Compile Include="Livres\ViewModel\SelectionCompteVM.cs" />
+    <Compile Include="Livres\ViewModel\SelectionDateComptesVM.cs" />
+    <Compile Include="Livres\ViewModel\SelectionJournalVM.cs" />
+    <Compile Include="Livres\ViewModel\SelectionJournauxVM.cs" />
+    <Compile Include="Livres\ViewModel\BalanceVM.cs" />
+    <Compile Include="Livres\ViewModel\GrandLivreVM.cs" />
+    <Compile Include="Livres\ViewModel\JournalVM.cs" />
+    <Compile Include="Livres\ViewModel\LigneBalance.cs" />
+    <Compile Include="Livres\ViewModel\LigneGrandLivre.cs" />
+    <Compile Include="Livres\ViewModel\LigneJournal.cs" />
+    <Compile Include="Livres\View\AffichageBalanceUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Livres\View\AffichageGrandLivreUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Livres\ViewModel\SelectionComptesVM.cs" />
+    <Compile Include="Livres\View\SelectionDateComptesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Livres\View\SelectionComptesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Livres\View\SelectionCompteUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Livres\View\SelectionJournalUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Livres\View\SelectionJournauxUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edition\View\SelectionCompteUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edition\View\SelectionCompteUI.Designer.cs">
+      <DependentUpon>SelectionCompteUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Edition\Logic\ListingJournauxLogic.cs" />
+    <Compile Include="Edition\Logic\ListingLibellesAutLogic.cs" />
+    <Compile Include="Edition\Logic\ListingPlanComptableLogic.cs" />
+    <Compile Include="Edition\View\ListingJournauxUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edition\View\ListingLibellesAutUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Edition\View\ListingPlanComptableUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Livres\Logic\AffichageBalanceLogic.cs" />
+    <Compile Include="Livres\Logic\AffichageGrandLivreLogic.cs" />
+    <Compile Include="Livres\Logic\AffichageJournauxLogic.cs" />
+    <Compile Include="Livres\View\AffichageJourauxUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Saisie\Logic\SaisieBilanLogic.cs" />
+    <Compile Include="Saisie\Logic\SaisieEcrituresLogic.cs" />
+    <Compile Include="Saisie\Logic\SaisieJournauxLogic.cs" />
+    <Compile Include="Saisie\Logic\SaisieLibellesAutomatiquesLogic.cs" />
+    <Compile Include="Saisie\Logic\SaisiePlanLogic.cs" />
+    <Compile Include="Saisie\ViewModel\LigneBilan.cs" />
+    <Compile Include="Saisie\ViewModel\LigneEcriture.cs" />
+    <Compile Include="Saisie\ViewModel\SaisieBilanVM.cs" />
+    <Compile Include="Saisie\ViewModel\SaisieEcrituresVM.cs" />
+    <Compile Include="Saisie\ViewModel\SaisieJournauxVM.cs" />
+    <Compile Include="Saisie\ViewModel\SaisieLibellesAutomatiquesVM.cs" />
+    <Compile Include="Saisie\ViewModel\SaisiePlanVM.cs" />
+    <Compile Include="Saisie\ViewModel\UserModel.cs" />
+    <Compile Include="Saisie\View\Ajout_Societe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saisie\View\Ajout_Societe.Designer.cs">
+      <DependentUpon>Ajout_Societe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Saisie\View\SaisieBilanUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saisie\View\SaisieBilanUI.Designer.cs">
+      <DependentUpon>SaisieBilanUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Saisie\View\SaisieJournauxUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saisie\View\SaisieLibellesAutomatiqueUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saisie\View\SaisieEcrituresUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Saisie\View\SaisiePlanUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commun\View\SelectionDatesUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commun\View\SelectionDatesUI.Designer.cs">
+      <DependentUpon>SelectionDatesUI.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Couche_Accée_Données\CoucheAcceeDonnees.csproj">
+      <Project>{0BA36B49-BE23-4559-92AB-1C69E672C389}</Project>
+      <Name>CoucheAcceeDonnees</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ExportDonnees\ExportDonnees.csproj">
+      <Project>{1224BF34-0F4F-48EE-87DF-2EFF2A307B23}</Project>
+      <Name>ExportDonnees</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utilitaire\Utilitaire.csproj">
+      <Project>{EE27169A-D5BD-468F-A373-0A03DAD3282C}</Project>
+      <Name>Utilitaire</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Commun\View\SVP.resx">
+      <DependentUpon>SVP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Livres\View\AffichageBalanceUI.resx">
+      <DependentUpon>AffichageBalanceUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Livres\View\AffichageGrandLivreUI.resx">
+      <DependentUpon>AffichageGrandLivreUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Livres\View\SelectionDateComptesUI.resx">
+      <DependentUpon>SelectionDateComptesUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Livres\View\SelectionComptesUI.resx">
+      <DependentUpon>SelectionComptesUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Livres\View\SelectionCompteUI.resx">
+      <DependentUpon>SelectionCompteUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Livres\View\SelectionJournalUI.resx">
+      <DependentUpon>SelectionJournalUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Livres\View\SelectionJournauxUI.resx">
+      <DependentUpon>SelectionJournauxUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edition\View\SelectionCompteUI.resx">
+      <DependentUpon>SelectionCompteUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edition\View\ListingJournauxUI.resx">
+      <DependentUpon>ListingJournauxUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edition\View\ListingLibellesAutUI.resx">
+      <DependentUpon>ListingLibellesAutUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Edition\View\ListingPlanComptableUI.resx">
+      <DependentUpon>ListingPlanComptableUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Livres\View\AffichageJourauxUI.resx">
+      <DependentUpon>AffichageJourauxUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saisie\View\Ajout_Societe.resx">
+      <DependentUpon>Ajout_Societe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saisie\View\SaisieBilanUI.resx">
+      <DependentUpon>SaisieBilanUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saisie\View\SaisieJournauxUI.resx">
+      <DependentUpon>SaisieJournauxUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saisie\View\SaisieLibellesAutomatiqueUI.resx">
+      <DependentUpon>SaisieLibellesAutomatiqueUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saisie\View\SaisieEcrituresUI.resx">
+      <DependentUpon>SaisieEcrituresUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Saisie\View\SaisiePlanUI.resx">
+      <DependentUpon>SaisiePlanUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commun\View\SelectionDatesUI.resx">
+      <DependentUpon>SelectionDatesUI.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ComptaDataSet.xsc">
+      <DependentUpon>ComptaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComptaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComptaDataSet.xss">
+      <DependentUpon>ComptaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet1.xsc">
+      <DependentUpon>ComptaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComptaDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComptaDataSet1.xss">
+      <DependentUpon>ComptaDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet2.xsc">
+      <DependentUpon>ComptaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComptaDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComptaDataSet2.xss">
+      <DependentUpon>ComptaDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet3.xsc">
+      <DependentUpon>ComptaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComptaDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComptaDataSet3.xss">
+      <DependentUpon>ComptaDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet4.xsc">
+      <DependentUpon>ComptaDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComptaDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComptaDataSet4.xss">
+      <DependentUpon>ComptaDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet5.xsc">
+      <DependentUpon>ComptaDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet5.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComptaDataSet5.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComptaDataSet5.xss">
+      <DependentUpon>ComptaDataSet5.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet6.xsc">
+      <DependentUpon>ComptaDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="ComptaDataSet6.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ComptaDataSet6.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ComptaDataSet6.xss">
+      <DependentUpon>ComptaDataSet6.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

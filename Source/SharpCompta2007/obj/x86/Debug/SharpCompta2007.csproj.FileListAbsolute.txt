@@ -1,0 +1,143 @@
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\SharpCompta2007\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\SharpCompta2007\obj\x86\Debug\SharpCompta2007.Properties.Resources.resources
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\SharpCompta2007\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\SharpCompta2007\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\SharpCompta2007\obj\x86\Debug\SharpCompta2007.SharpComptaUI.resources
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\SharpCompta2007\bin\Debug\SharpCompta2007.exe.config
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\SharpCompta2007\bin\Debug\SharpCompta2007.exe
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\SharpCompta2007\bin\Debug\SharpCompta2007.pdb
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\SharpCompta2007\obj\x86\Debug\SharpCompta2007.exe
+C:\Documents and Settings\Administrateur\Local Settings\Application Data\Temporary Projects\SharpCompta2007\obj\x86\Debug\SharpCompta2007.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\SharpCompta2007.exe.config
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\obj\x86\Debug\SharpCompta2007.exe
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\obj\x86\Debug\SharpCompta2007.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\SharpCompta2007.exe
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\SharpCompta2007.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\obj\x86\Debug\SharpCompta2007.Properties.Resources.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\obj\x86\Debug\SharpCompta2007.SharpComptaUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\Utilitaire.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\Utilitaire.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\ComptabiliteGenerale.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\ComptabiliteGenerale.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\ExportDonnees.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\ExportDonnees.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\SharpCompta2007.exe.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\SharpCompta2007.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\SharpCompta2007.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.SharpComptaUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\SharpCompta2007.exe.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\SharpCompta2007.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\SharpCompta2007.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.SharpComptaUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\SharpCompta2007.exe.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\SharpCompta2007.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\SharpCompta2007.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.SharpComptaUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\SharpCompta2007.exe.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\SharpCompta2007.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\SharpCompta2007.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.SharpComptaUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\SharpCompta2007.exe.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\SharpCompta2007.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\SharpCompta2007.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.SharpComptaUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\obj\x86\Debug\SharpCompta2007.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\ComptabiliteGenerale.dll.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\obj\x86\Debug\SharpCompta.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\obj\x86\Debug\SharpCompta.SharpComptaUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\Hivernage.exe.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\Hivernage.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\bin\Debug\Hivernage.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\obj\x86\Debug\Hivernage.exe
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\SharpCompta2007\obj\x86\Debug\Hivernage.pdb

@@ -1,0 +1,340 @@
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\EditionCompta.SelectionCompteUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionCompteUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionComptesUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournauxUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionDateComptesUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournalUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageBalanceUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageGrandLivreUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageJourauxUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\ExportDonnees.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\ExportDonnees.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\Compta.Commun.SelectionDatesUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\Compta.Commun.SVP.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieEcrituresUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJournauxUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibellesAutomatiqueUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingJournauxUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingPlanComptableUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingLibellesAutUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SVP.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageBalanceUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageGrandLivreUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionDateComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournalUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingLibellesAutUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingPlanComptableUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageJourauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibellesAutomatiqueUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieEcrituresUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SelectionDatesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SVP.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageBalanceUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageGrandLivreUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionDateComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournalUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingLibellesAutUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingPlanComptableUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageJourauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibellesAutomatiqueUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieEcrituresUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SelectionDatesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SVP.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageBalanceUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageGrandLivreUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionDateComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournalUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingLibellesAutUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingPlanComptableUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageJourauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibellesAutomatiqueUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieEcrituresUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SelectionDatesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.Ajout_Societe.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SVP.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageBalanceUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageGrandLivreUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionDateComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournalUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingLibellesAutUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingPlanComptableUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageJourauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.Ajout_Societe.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibellesAutomatiqueUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieEcrituresUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SelectionDatesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SVP.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageBalanceUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageGrandLivreUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionDateComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournalUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingLibellesAutUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingPlanComptableUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageJourauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.Ajout_Societe.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibellesAutomatiqueUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieEcrituresUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SelectionDatesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SVP.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageBalanceUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageGrandLivreUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionDateComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournalUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingLibellesAutUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingPlanComptableUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageJourauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.Ajout_Societe.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.SaisieBilanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibellesAutomatiqueUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieEcrituresUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SelectionDatesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.Authentification.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SVP.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageBalanceUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageGrandLivreUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionDateComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournalUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingLibellesAutUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingPlanComptableUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageJourauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.Ajout_Societe.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.Authentification.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.SaisieBilanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibellesAutomatiqueUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieEcrituresUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SelectionDatesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SVP.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageBalanceUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageGrandLivreUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionDateComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournalUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingLibellesAutUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingPlanComptableUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageJourauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.Ajout_Societe.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.SaisieBilanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibellesAutomatiqueUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieEcrituresUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SelectionDatesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SVP.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageBalanceUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageGrandLivreUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionDateComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionComptesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournalUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.SelectionJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.SelectionCompteUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingLibellesAutUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\EditionCompta.ListingPlanComptableUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\LivresCompta.AffichageJourauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Properties.Resources.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.Ajout_Societe.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.Saisie.View.SaisieBilanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJournauxUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibellesAutomatiqueUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieEcrituresUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\Compta.Commun.SelectionDatesUI.resources
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.GenerateResource.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll.config
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\bin\Debug\ComptabiliteGenerale.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\bin\Debug\CoucheAcceeDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ComptabilitéGenerale\obj\Debug\ComptabiliteGenerale.csproj.CopyComplete

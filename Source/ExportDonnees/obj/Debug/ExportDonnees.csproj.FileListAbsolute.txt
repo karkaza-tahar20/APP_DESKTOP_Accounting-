@@ -1,0 +1,108 @@
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ExportDonnees\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ExportDonnees\bin\Debug\ExportDonnees.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ExportDonnees\bin\Debug\ExportDonnees.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ExportDonnees\bin\Debug\Utilitaire.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ExportDonnees\bin\Debug\Utilitaire.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ExportDonnees\obj\Debug\ExportDonnees.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ExportDonnees\obj\Debug\ExportDonnees.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ExportDonnees\obj\Debug\Interop.Office.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ExportDonnees\obj\Debug\ExportDonnees.csproj.ResolveComReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.ResolveComReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.ResolveComReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\SharpCompta-master\Source\ExportDonnees\obj\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.ResolveComReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\obj\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza\Source\ExportDonnees\obj\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.ResolveComReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\obj\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V2\Source\ExportDonnees\obj\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.ResolveComReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\obj\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V3\Source\ExportDonnees\obj\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.ResolveComReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\obj\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V4\Source\ExportDonnees\obj\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.ResolveComReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\obj\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V5\Source\ExportDonnees\obj\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.ResolveComReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\obj\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V6\Source\ExportDonnees\obj\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\bin\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\bin\Debug\ExportDonnees.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\bin\Debug\Utilitaire.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\bin\Debug\Utilitaire.pdb
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.AssemblyReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.ResolveComReference.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CoreCompileInputs.cache
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\obj\Debug\ExportDonnees.csproj.CopyComplete
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\obj\Debug\ExportDonnees.dll
+C:\Users\taher.DESKTOP-RGPDGSP.000\Desktop\STAGE3_LICENCE\Sharp Karkaza V7\Source\ExportDonnees\obj\Debug\ExportDonnees.pdb

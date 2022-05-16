@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\ComptabilitéGenerale.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\ComptabilitéGenerale.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\Couche_Accée_Données.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\Utilitaire.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\Couche_Accée_Données.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Debug\Utilitaire.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\ComptabilitéGenerale.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\ComptabilitéGenerale.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisiePlanUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieLibelAutUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieJrnAuxUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\SaisieCompta.SaisieOpUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Debug\saisiecompta.Selection_Dates.resources

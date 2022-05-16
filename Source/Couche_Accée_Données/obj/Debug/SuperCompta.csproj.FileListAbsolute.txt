@@ -1,0 +1,6 @@
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\WpfApplication1\Couche_Accée_Données\bin\Debug\Couche_Accée_Données.dll.config
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\WpfApplication1\Couche_Accée_Données\bin\Debug\Couche_Accée_Données.dll
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\WpfApplication1\Couche_Accée_Données\bin\Debug\Couche_Accée_Données.pdb
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\WpfApplication1\Couche_Accée_Données\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\WpfApplication1\Couche_Accée_Données\obj\Debug\Couche_Accée_Données.dll
+C:\Documents and Settings\Administrateur\Mes documents\Visual Studio 2008\Projects\WpfApplication1\Couche_Accée_Données\obj\Debug\Couche_Accée_Données.pdb

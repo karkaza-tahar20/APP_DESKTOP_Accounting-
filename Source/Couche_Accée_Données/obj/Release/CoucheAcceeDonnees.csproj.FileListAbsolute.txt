@@ -1,0 +1,11 @@
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\bin\Release\Utilitaire.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\bin\Release\Utilitaire.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Release\CoucheAcceeDonnees.ImportationDonneesUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\bin\Release\CoucheAcceeDonnees.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\bin\Release\CoucheAcceeDonnees.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Release\CoucheAcceeDonnees.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Release\CoucheAcceeDonnees.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\Couche_Accée_Données\obj\Release\CoucheAcceeDonnees.DossierUI.resources

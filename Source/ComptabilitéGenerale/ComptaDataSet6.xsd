@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="ComptaDataSet6" targetNamespace="http://tempuri.org/ComptaDataSet6.xsd" xmlns:mstns="http://tempuri.org/ComptaDataSet6.xsd" xmlns="http://tempuri.org/ComptaDataSet6.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="ComptaConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="ComptaConnectionString (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings.ComptabiliteGenerale.Properties.Settings.GlobalReference.Default.ComptaConnectionString" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="BillanTableAdapter" GeneratorDataComponentClassName="BillanTableAdapter" Name="Billan" UserDataComponentName="BillanTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="ComptaConnectionString (Settings)" DbObjectName="Compta.dbo.Billan" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT TotalePassif FROM dbo.Billan</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="TotalePassif" DataSetColumn="TotalePassif" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="ComptaDataSet6" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="ComptaDataSet6" msprop:Generator_UserDSName="ComptaDataSet6">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Billan" msprop:Generator_TableClassName="BillanDataTable" msprop:Generator_TableVarName="tableBillan" msprop:Generator_TablePropName="Billan" msprop:Generator_RowDeletingName="BillanRowDeleting" msprop:Generator_RowChangingName="BillanRowChanging" msprop:Generator_RowEvHandlerName="BillanRowChangeEventHandler" msprop:Generator_RowDeletedName="BillanRowDeleted" msprop:Generator_UserTableName="Billan" msprop:Generator_RowChangedName="BillanRowChanged" msprop:Generator_RowEvArgName="BillanRowChangeEvent" msprop:Generator_RowClassName="BillanRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="TotalePassif" msprop:Generator_ColumnVarNameInTable="columnTotalePassif" msprop:Generator_ColumnPropNameInRow="TotalePassif" msprop:Generator_ColumnPropNameInTable="TotalePassifColumn" msprop:Generator_UserColumnName="TotalePassif" type="xs:double" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

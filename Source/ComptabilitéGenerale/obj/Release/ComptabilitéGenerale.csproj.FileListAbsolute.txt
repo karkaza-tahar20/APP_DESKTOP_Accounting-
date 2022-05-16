@@ -1,0 +1,16 @@
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Release\ComptabilitéGenerale.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Release\ComptabilitéGenerale.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Release\Couche_Accée_Données.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Release\Utilitaire.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Release\Couche_Accée_Données.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\bin\Release\Utilitaire.pdb
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Release\SaisieCompta.SaisieJrnAuxUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Release\SaisieCompta.SaisieLibelAutUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Release\SaisieCompta.SaisieOpUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Release\SaisieCompta.SaisiePlanUI.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Release\SaisieCompta.Selection_Dates.resources
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Release\ComptabilitéGenerale.dll
+C:\Documents and Settings\Administrateur\mes documents\visual studio 2010\Projects\SharpCompta2007\ComptabilitéGenerale\obj\Release\ComptabilitéGenerale.pdb
